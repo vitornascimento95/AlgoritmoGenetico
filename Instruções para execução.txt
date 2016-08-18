@@ -1,0 +1,7 @@
+Para executar o algoritmo realize os passos abaixo:
+1 - Abrir o Python;
+2 - Em File > Open, escolher o arquivo Agotimo.py, nesse momento será aberta outra janela com a implementação do algoritmo;
+3 - Pressionar F5, nesse momento será executado o algoritmo na janela de execução;
+4 - Na janela de execução o programa irá aguardar a entrada, sendo assim deve-se informar a entrada desejada e aguardar o resultado;
+5 - O resultado será o custo da melhor solução obtida;
+6 - Para realizar mais testes, volte ao passo 3 e siga em diante.
